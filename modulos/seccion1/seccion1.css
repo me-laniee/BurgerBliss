@@ -1,0 +1,40 @@
+.section1 {
+    padding: 0 24px;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-family: monospace;
+}
+
+.texto1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-top: 40px;
+}
+
+.h2{
+    font-family: monospace;
+    font-size: 24px;
+}
+
+.description{
+    font-size: 20px;
+}
+
+.btn1 {
+    width: 100%;
+    border: 1px solid #484848;
+    border-radius: 30px;
+    padding: 20px;
+    margin-top: 30px;
+
+    font-size: 16px;
+    color: #486248;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
